@@ -1,0 +1,11 @@
+.Login {
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 1000px;
+    border: 1px solid black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    align-items: center;
+}
